@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "test@test.com",
+      "password": "12345"
+    },
+    {
+      "email": "test2@test.com",
+      "password": "$2a$10$nrKDUBRKfoVnpUtRs4asaeseUsEbElHUbq.rK8YxEKlwBWoeRRCuq",
+      "id": 2
+    },
+    {
+      "email": "admin@mail.com",
+      "password": "$2a$10$VUQxmb9f9o7Io.7dEzpgROMfk/TjpnHuxoAKPkNumMwMXt5Z7XGQ6",
+      "id": 3
+    }
+  ],
+  "todos": [
+    {
+      "id": 1683053439764,
+      "name": "fsdf",
+      "description": "sdfs",
+      "done": false
+    },
+    {
+      "id": 1683053900662,
+      "name": "sfdsdf",
+      "description": "fdsf",
+      "done": true
+    },
+    {
+      "id": 1683054260577,
+      "name": "авыа",
+      "description": "ыва",
+      "done": false
+    }
+  ]
+}
